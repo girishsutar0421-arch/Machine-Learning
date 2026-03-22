@@ -1,0 +1,1 @@
+This directory contains my practical work and hands-on implementation of Machine Learning concepts. It includes various notebooks and scripts where I have applied algorithms, performed data preprocessing, and built predictive models using real-world datasets.
